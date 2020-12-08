@@ -1,0 +1,8 @@
+Spiderman,Pop,123,2001,MARVEL,Spiderman
+Yoda,Pop,124,2003,Star Wars,Star Wars
+Thor,Pop,125,2000,MARVEL,Avengers
+Thanos,Pop,130,2002,MARVEL,Avengers
+Loki,Pop,126,2000,MARVEL,Avengers
+BlackWidow,Pop,129,2000,MARVEL,Avengers
+Batman,Pop,127,2000,DC,Batman
+Wason,Pop,128,2000,DC,Batman
